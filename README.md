@@ -4,10 +4,6 @@
 
 With a strong foundation in software development and a Bachelor's degree in Computer Science, I have gained valuable experience in building robust backend systems. My expertise lies in designing and implementing efficient server-side architectures using technologies such as Java, Python and databases like MySQL and Postgres. I enjoy tackling complex challenges and optimizing performance to deliver seamless user experiences.
 
-📚 Master's Program:
-
-I am currently enrolled in a Master's program, deepening my knowledge in the field of computer science. Through my studies, I am exploring the fascinating intersection of machine learning and software engineering. This academic pursuit allows me to stay at the forefront of industry advancements and apply cutting-edge techniques to real-world projects.
-
 🤖 Machine Learning Enthusiast:
 
 Machine learning has captivated my curiosity, and I'm continuously expanding my expertise in this domain. I am passionate about leveraging data-driven approaches to develop intelligent systems and extract meaningful insights. Whether it's natural language processing, computer vision, or predictive analytics, I find immense satisfaction in exploring the possibilities of machine learning algorithms and models.
